@@ -1,0 +1,25 @@
+# Maven
+target/
+*.log
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.sts4-cache/
+.vscode/
+nbproject/
+build/
+out/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Spring Boot config (keep secrets safe)
+application.properties
+application.yml
