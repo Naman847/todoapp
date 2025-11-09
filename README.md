@@ -134,7 +134,3 @@ Run all tests:
 * UI enhancement using Bootstrap or React.
 * Docker Compose setup for containerized deployment.
 
----
-
-
-```
